@@ -1,1 +1,1 @@
-# TicTacToe
+# MinimaxTicTacToe
