@@ -18,9 +18,9 @@ public class TicTacToe {
     while(playState) {
       if (playTurn == 0) {
         System.out.println("Your turn");
-        System.out.print("X Coor: ");
+        System.out.print("Row: ");
         newX = sc.nextInt();
-        System.out.print("Y Coor: ");
+        System.out.print("Column: ");
         newY = sc.nextInt();
       }
       else {
