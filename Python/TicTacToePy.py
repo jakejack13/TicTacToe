@@ -120,7 +120,7 @@ def minMax(newBoard, player) :
                 bestScore = moves[i]["score"]
                 print(bestScore)
                 bestMove = i
-                print(BestMove)
+                print(bestMove)
     return moves[bestMove]
 
 main()
